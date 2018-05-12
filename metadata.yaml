@@ -1,0 +1,26 @@
+_repo: Memoria-sobre-o-melhoramento-da-cultura-da-Beira-e-da-navega--o-do-Mondego_41389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Almeida, António de
+    alias: Almeida, Antonio de
+    birthdate: 1821
+    gutenberg_agent_id: '41155'
+    url: http://www.gutenberg.org/2009/agents/41155
+description: ''
+gutenberg_issued: '2012-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41389'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mondego River (Portugal)'
+- !lcc 'DP'
+title: Memoria sobre o melhoramento da cultura da Beira e da navegação do Mondego
+url: http://www.gutenberg.org/ebooks/41389
