@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41155'
     url: http://www.gutenberg.org/2009/agents/41155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41389#Memoria-sobre-o-melhoramento-da-cultura-da-Beira-e-da-navega--o-do-Mondego
 gutenberg_issued: '2012-11-17'
 gutenberg_type: Text
 identifiers:
